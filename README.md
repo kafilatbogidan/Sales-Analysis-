@@ -56,3 +56,9 @@ The analysis revealed that:
 - Consider making *Tuesday* or the *4th week* a rest or review period.  
 - Investigate the reasons behind the drop in *Week 4* sales.  
 - Maintain continuous tracking using visual dashboards to spot trends early.
+
+
+# 📂 Weekly Sales Dataset
+
+Click below to view the full dataset:  
+👉 [Open Weekly Sales Data in Google Sheets](https://docs.google.com/spreadsheets/d/1AwgQH9HbgNxfXa7SQ7W5KHD3qocZFULa/edit?usp=sharing&ouid=110319758966133972017&rtpof=true&sd=true)
